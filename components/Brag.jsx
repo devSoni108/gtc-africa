@@ -17,7 +17,7 @@ const Brag = () => {
             <div className="p-2">
                 <AiFillSafetyCertificate className='py-2' size={52} />
                 <h3 className="sm:text-2xl">Certified Installer</h3>
-                <span className="text-xs uppercase text-stone-300">Certified parts intaller</span>
+                <span className="text-xs uppercase text-stone-300">Certified parts installer</span>
             </div>
             <div className="p-2">
                 <GiMineTruck className='py-2' size={62} />
