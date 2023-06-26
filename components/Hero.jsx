@@ -1,18 +1,10 @@
-import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 
 const Hero = () => {
-  const [videoError, setVideoError] = useState(false);
-
-  const handleVideoError = () => {
-    setVideoError(true);
-  };
-
   return (
     <section>
       <div style={{ position: 'relative', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-        {videoError ? (
           <Image
             src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/hero.jpg?alt=media&token=67c05447-4a72-4a1e-8e15-540fffafdbce'
             alt='Heavy vehicle excavators'
@@ -21,16 +13,6 @@ const Hero = () => {
             style={{ width: '100%', height: '450px', objectFit: 'cover', objectPosition: 'center' }}
             loading="lazy"
           />
-        ) : (
-          <video
-            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/hero.mp4?alt=media&token=585662bc-41e3-4d46-9cf5-23cacc460cb1'
-            loop
-            autoPlay
-            muted
-            style={{ width: '100%', height: '450px', objectFit: 'cover', objectPosition: 'center' }}
-            onError={handleVideoError}
-          />
-        )}
         {/* Overlay */}
         <div
           style={{
