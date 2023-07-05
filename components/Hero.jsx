@@ -4,7 +4,7 @@ import Link from 'next/link';
 const Hero = () => {
   return (
     <section>
-      <div style={{ position: 'relative', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+      <div className='drop-shadow-sm' style={{ position: 'relative', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <Image
             src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/hero.jpg?alt=media&token=67c05447-4a72-4a1e-8e15-540fffafdbce'
             alt='Heavy vehicle excavators'
