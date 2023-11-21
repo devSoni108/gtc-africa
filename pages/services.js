@@ -43,10 +43,6 @@ const Services = () => {
                     </div>
                 </div>
                 <div className='px-2 py-4 sm:flex justify-evenly items-center'>
-                    <div className='max-w-500 py-4'>
-                        <h4 className='font-semibold pb-1'>Complete Rebuilds of Drivetrain Components</h4>
-                        <p className='text-stone-700 text-sm'>Complete rebuilds of drivetrain components are a comprehensive solution to ensure your earth moving equipment is operating at peak performance. Our team of experienced technicians will fully disassemble and inspect each component, replace any worn or damaged parts, and reassemble the component to exact manufacturer specifications. This process can significantly extend the lifespan of your equipment and improve its overall efficiency and reliability. Trust us to provide high-quality rebuilds that will keep your equipment running smoothly for years to come.</p>
-                    </div>
                     <div>
                         <Image
                             src="https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/torque-converter.jpg?alt=media&token=8d0cbb31-646c-4800-b380-fee957992d4d"
@@ -57,6 +53,10 @@ const Services = () => {
                             loading='lazy'
                         />
                     </div>
+                    <div className='max-w-500 py-4'>
+                        <h4 className='font-semibold pb-1'>Complete Rebuilds of Drivetrain Components</h4>
+                        <p className='text-stone-700 text-sm'>Complete rebuilds of drivetrain components are a comprehensive solution to ensure your earth moving equipment is operating at peak performance. Our team of experienced technicians will fully disassemble and inspect each component, replace any worn or damaged parts, and reassemble the component to exact manufacturer specifications. This process can significantly extend the lifespan of your equipment and improve its overall efficiency and reliability. Trust us to provide high-quality rebuilds that will keep your equipment running smoothly for years to come.</p>
+                    </div>  
                 </div>
                 <div className='px-2 py-4 sm:flex justify-evenly items-center'>
                     <div>
