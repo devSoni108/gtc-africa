@@ -22,7 +22,7 @@ const Slick = () => {
                 <Slider {...settings}>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0001.jpg?alt=media&token=6d66b5d5-dae3-49e0-a4cb-c40767f678fc'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0009.jpg?alt=media&token=8ab7557c-cf4a-4da3-890e-1d008abfef65'
                             alt='/'
                             width={500}
                             height={500}
@@ -32,7 +32,7 @@ const Slick = () => {
                     </div>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0002.jpg?alt=media&token=62581b9f-53d5-4af6-bac9-fd8998029c15'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0008.jpg?alt=media&token=9e6be936-9731-4678-adf0-fc6d23403faa'
                             alt='/'
                             width={500}
                             height={500}
@@ -41,7 +41,7 @@ const Slick = () => {
                     </div>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0003.jpg?alt=media&token=a493dda2-be50-44f8-8d3c-1a73db10c1ec'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0012.jpg?alt=media&token=f7d4ce2d-6cc8-456b-8517-2219d678ef6a'
                             alt='/'
                             width={500}
                             height={500}
@@ -50,7 +50,7 @@ const Slick = () => {
                     </div>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0004.jpg?alt=media&token=5796a12c-ec1d-40b1-9032-0a92cb9480c5'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0016.jpg?alt=media&token=fda490e8-6d6f-4d27-a06d-4b66b04dea84'
                             alt='/'
                             width={500}
                             height={500}
@@ -59,7 +59,7 @@ const Slick = () => {
                     </div>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0005.jpg?alt=media&token=c18fa43a-dd82-4465-b759-6c0563c96430'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0010.jpg?alt=media&token=be651878-fe59-494f-bb13-c6a882ac7245'
                             alt='/'
                             width={500}
                             height={500}
@@ -68,7 +68,7 @@ const Slick = () => {
                     </div>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0006.jpg?alt=media&token=41d5888c-5719-45a2-b0c3-732aee6f3af4'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0017.jpg?alt=media&token=8a111038-2511-4130-b79f-46ef32011420'
                             alt='/'
                             width={500}
                             height={500}
@@ -77,7 +77,7 @@ const Slick = () => {
                     </div>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0007.jpg?alt=media&token=529050a4-5072-419a-a6bf-1587d29ba9c9'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0014.jpg?alt=media&token=ba6bd541-8442-446e-b7f5-4837f6446bd5'
                             alt='/'
                             width={500}
                             height={500}
@@ -86,7 +86,7 @@ const Slick = () => {
                     </div>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0008.jpg?alt=media&token=5c25c431-32c5-40bf-a853-1e86b125de36'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0013.jpg?alt=media&token=7bab98c3-f645-49ea-9113-34d96837a924'
                             alt='/'
                             width={500}
                             height={500}
@@ -95,7 +95,7 @@ const Slick = () => {
                     </div>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0009.jpg?alt=media&token=233b40b8-9f8f-42b3-9722-8d0233a112db'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0011.jpg?alt=media&token=5b33b34a-a997-4161-a04f-f185524c9698'
                             alt='/'
                             width={500}
                             height={500}
@@ -104,97 +104,7 @@ const Slick = () => {
                     </div>
                     <div>
                         <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0010.jpg?alt=media&token=0851a7ac-acc8-4ebe-af6b-d2cbaa0c689e'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0011.jpg?alt=media&token=c0387fdc-b9d0-4eb7-8bd6-9aff9069adaa'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0012.jpg?alt=media&token=e10ca42c-f15d-4767-8144-968a7ddb2bd0'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0013.jpg?alt=media&token=2676dd57-06ee-4bfd-8e58-402cd8f30560'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0014.jpg?alt=media&token=67e982d4-f313-4634-8dbf-53abb3d90f3c'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0015.jpg?alt=media&token=a1bfc958-112b-42ef-9ede-e4f805ee4d2d'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0016.jpg?alt=media&token=6e29e1ae-7678-441d-815c-892ae58ba653'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0017.jpg?alt=media&token=e361e5dd-aedc-4b76-8c57-d450b69c8e30'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0018.jpg?alt=media&token=4da8bbbe-a983-4980-8443-89a673c63d6f'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0019.jpg?alt=media&token=4c090974-de96-4db5-ba88-a8c729036f44'
-                            alt='/'
-                            width={500}
-                            height={500}
-                            className='p-4'
-                        />
-                    </div>
-                    <div>
-                        <Image
-                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-0020.jpg?alt=media&token=b4372354-0c3f-40a2-ad65-aa908c2b9694'
+                            src='https://firebasestorage.googleapis.com/v0/b/gtc-africa.appspot.com/o/IMG-20240130-WA0015.jpg?alt=media&token=5f117795-324f-4a93-b7ae-d0067418eac2'
                             alt='/'
                             width={500}
                             height={500}
